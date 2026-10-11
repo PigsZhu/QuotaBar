@@ -1,0 +1,17 @@
+PP Neue Machina Inktrap Regular
+
+Copyright © 2019 by Mathieu Desjardins. All rights reserved.
+Foundry: Pangram Pangram®
+
+Font information: https://pangrampangram.com/products/neue-machina
+Licensing information: https://pangrampangram.com/pages/faq
+
+The original interface design used this third-party commercial font.
+Public source exports and default universal release packages do not include
+font files and use macOS system fonts instead.
+
+The font is not covered by QuotaBar's MIT license. Attribution and free or
+open-source distribution do not grant permission to embed or redistribute
+the font. A local preview that includes the font requires the appropriate
+permission from the rights holder. See the official licensing information
+above for App License requirements.

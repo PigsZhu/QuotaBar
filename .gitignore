@@ -1,0 +1,33 @@
+.build/
+dist/
+.DS_Store
+
+# Local tools, reference material and project handover notes.
+.codex/
+.swiftpm/
+DerivedData/
+design/
+接手说明.md
+调节动画.command
+animation-settings.json
+script/animation_tuner.py
+script/animation_tuner.html
+docs/eyes-reference.md
+
+# Commercial font files must never be included in the public source tree.
+*.otf
+*.ttf
+*.woff
+*.woff2
+
+# Local credentials, environment overrides and diagnostic output.
+.env
+.env.*
+!.env.example
+auth.json
+*.pem
+*.p12
+*.key
+*.log
+*.xcuserstate
+xcuserdata/
