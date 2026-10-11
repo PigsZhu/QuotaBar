@@ -31,7 +31,7 @@ QuotaBar 在屏幕顶部显示一双会动的眼睛和剩余额度圆环。点�
 
 ## 安装与使用
 
-1. 从 [Releases](https://github.com/cinzrozhu-stack/QuotaBar/releases) 下载 `QuotaBar-<版本号>-Universal.zip`。
+1. 从 [Releases](https://github.com/PigsZhu/QuotaBar/releases) 下载 `QuotaBar-<版本号>-Universal.zip`。
 2. 解压，将 `QuotaBar.app` 拖入“应用程序”。
 3. 打开后，点击屏幕顶部中央的小刘海查看额度。
 4. 点击外部、顶部收起区域或按 Escape 可收回卡片。
